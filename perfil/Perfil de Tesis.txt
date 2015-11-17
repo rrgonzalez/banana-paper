@@ -1,0 +1,58 @@
+Perfil del Trabajo de Diploma
+
+Curso docente: 2015-2016
+
+Título:
+Componente para la fusión de imágenes de PET (Tomografía por Emisión de Positrones) con CT (Tomografía Computarizada).
+
+Autores:
+- Dyan Carlos Yanes Suarez.
+- Reinier Rodríguez González.
+
+Tutores: 
+Ing. Maikel Sánchez Dieguez.
+
+Clasificación: 
+Investigación + Desarrollo (Ciclo completo)
+
+Clasificación del área de desarrollo:
+Procesamiento de Imágenes Médicas.
+
+Síntesis del Tutor: 
+Ing. Maikel Sánchez Dieguez: Graduado de Ingeniero en Ciencias Informáticas, egresado de la UCI en el año 2010. Es especialista del Departamento de Desarrollo de Componentes del Centro de Informática Médica de la Universidad de las Ciencias Informáticas donde se desempeña como líder del equipo de desarrollo del sistema PACS. Correo electrónico: msdieguez@uci.cu
+
+Problema a resolver:
+El diagnóstico por imagen, es una de las técnicas más utilizadas en la actualidad para detectar enfermedades y emitir tratamientos. Con el paso de los años técnicas como la Resonancia Magnética (MR), Tomografía Computarizada (CT), Ultrasonidos (US), Angiografías (XA), entre otras han ido evolucionando para dar lugar a nuevas técnicas como la Tomografía por Emisión de Positrones (PET) y Resonancia Magnética Funcional (MRI).
+
+Cada una de estas técnicas o modalidades tienes propósitos específicos y brindan información a los médicos para que puedan emitir un diagnóstico. Para que un radiólogo pueda emitir un diagnóstico acertado necesita la mayor cantidad de información posible, por lo que se hace necesario poder interpretar imágenes estructurales como las CT e imágenes funcionales como las PET. Actualmente esta interpretación se hace de distintas formas; mirando las imágenes obtenidas de los equipos directamente, con software especializados en fusionar estas imágenes, que tienen un alto costo, o mediante equipos médicos especializados en estos propósitos.
+
+La posibilidad de combinar estos estudios permite obtener imágenes muy claras que combinan las imágenes anatómicas que muestra el CT con las de función celular (o metabolismo) que proporciona el PET. Esta fusión de las dos técnicas hace que el estudio sea mucho más confiable, y fácil de interpretar.  La combinación de estos estudios permite:
+•	Detectar cáncer.
+•	Determinar si un cáncer se ha diseminado en el cuerpo.
+•	Evaluar la eficacia de un plan de tratamiento, tal como la terapia de cáncer.
+•	Determinar el flujo sanguíneo hacia el músculo cardíaco.
+•	Determinar los efectos de un ataque cardíaco, o infarto del miocardio, en áreas del corazón.
+•	Identificar áreas del músculo cardíaco que se beneficiarían mediante un procedimiento tal como angioplastia o cirugía de bypass coronario (en combinación con un estudio de perfusión miocárdica).
+•	Evaluar anomalías cerebrales, tales como tumores, desórdenes de la memoria convulsiones y otros desórdenes del sistema central nervioso.
+•	Esquematizar el cerebro humano normal y la función cardíaca.
+
+Objetivo:
+Desarrollar un componente de software que permita la fusión de imágenes de CT con PET.
+
+Tareas a cumplir por los estudiantes: 
+1.	Estudiar los fundamentos de las Imágenes Médicas Digitales.
+2.	Analizar los estudios provenientes de equipos de Tomografía Computarizada y Tomografía por Emisión de Positrones.
+3.	Analizar las técnicas de registro y co-registro de imágenes médicas.
+4.	Investigar las técnicas más utilizadas para la fusión de imágenes médicas y seleccionar la más conveniente, para su implementación.
+5.	Implementar un algoritmo para la fusión de imágenes de CT y PET.
+6.	Documentar la fase del proceso de desarrollo del componente.
+7.	Integrar el componente desarrollado a la solución del visor de imágenes médicas del CESIM.
+
+Resultado esperado: 
+Como resultado final se espera una biblioteca de enlaces dinámicos (dll) donde se agrupen los métodos necesarios para la fusión de imágenes de CT y PET.
+
+Cronograma:
+(esto es una tabla)
+Columnas: No. | Descripcion de la Tarea/Subtarea | Resposable | Fecha Inicio | Fecha Fin
+
+Aki va lo de las firmas de los tutores y los autores.
