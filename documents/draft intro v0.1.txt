@@ -1,1 +1,4 @@
 Medical Imaging
+En 1965 fue publicado el libro "Use of Computers in Biology and Medicine" del  Dr.Robert S. Ledley, el primer libro en combinar principios de biologia, medicina y matemáticas. Esa época marcó el inicio de grandes estudios de la bioinformática y se crearon varios proyectos que son los predecesores de varias herramientas que se utilizan en la actualidad tales como los microscopios digitales, las tomografías, etc. 
+Este desarrollo provocó la evolución de la informática médica, PACS y las imágenes médicas. Se entiende como imágenes médicas al estudio de 
+Producto de grandes avances en las imágenes médicas, PACS y la informática médica las imágenes médicas informáticas
